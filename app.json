@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "kawai-todo",
-    "description": "This project is really great.",
+    "name": "Kawai To Do",
+    "description": "리액트 네이티브 to-do 앱 튜토리얼",
     "slug": "kawai-todo",
     "privacy": "public",
     "sdkVersion": "30.0.0",
